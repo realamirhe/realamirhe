@@ -4,8 +4,8 @@
 🎨 I ocatuanally **draw** somethings.  
 
 <p align="center">
-<a href="https://t.me/AhIMi_channel" title="AhIMi channel"><img src="AhIMi.jpg" ></a>
-<a href="https://twitter.com/realamirhe" title="twitter"><img width="100" src="https://brandeps.com/icon-download/T/Twitter-icon-vector-04.svg"></a>
+<a href="https://t.me/AhIMi_channel" title="AhIMi channel" target="_blank"><img src="AhIMi.jpg" ></a>
+<a href="https://twitter.com/realamirhe" title="twitter" target="_blank"><img width="100" src="https://brandeps.com/icon-download/T/Twitter-icon-vector-04.svg"></a>
 </p>
 
 `react` `neo4j` `pytroch`
