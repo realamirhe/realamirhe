@@ -1,6 +1,6 @@
 ⚡ If **premature optimization** is the root of all evil, Then I have an **evil factory**.   
 💬 If you are searching for **new idea**, there you are.  
-⚡ I explain things in a **complex** and **precise** manner **from the begining**.  
+⚡ I explain things in a **complex** and **precise** manner **from the beginning**.  
 🚒 **Kryptonite** and **misconceptions** about other's profession are two of my **main weaknesses**.  
 🎨 I occasionally **draw** somethings.  
 
