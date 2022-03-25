@@ -16,4 +16,5 @@
   <img src="commits.png" width="550" >
 </p>
 
-❤️ `react` `neo4j` `PyTorch` `spiking neural network` `flutter`
+❤️ `react` `neo4j` `PyTorch` `spiking neural network` `flutter` `rust`
+
