@@ -26,8 +26,8 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
-- [Unleash the power of bookmarklets](https://amirhe.hashnode.dev/unleash-the-power-of-bookmarklets)
 - [Use package.json wisely](https://amirhe.hashnode.dev/use-packagejson-wisely)
+- [Unleash the power of bookmarklets](https://amirhe.hashnode.dev/unleash-the-power-of-bookmarklets)
 <!-- BLOG-POST-LIST:END -->
  
 
