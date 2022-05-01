@@ -13,14 +13,16 @@
 <p align="center">
   <img src="commits.png" width="465" >
   &nbsp;&nbsp;
-  <a href="https://t.me/AhIMi_channel" title="t.me/AhIMi_channel" target="_blank"><img width="100" src="AhIMi.png" alt="AhIMi"></a>
+  <a href="https://t.me/s/AhIMi_channel" title="t.me/AhIMi_channel" target="_blank"><img width="100" src="AhIMi.png" alt="AhIMi"></a>
 </p>
 
 ❤️ `react` `neo4j` `PyTorch` `spiking neural network` `flutter` `rust`
 <br><br>
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@amirhe) 
-[![Twitter](https://img.shields.io/twitter/follow/realamirhe?logo=twitter&style=for-the-badge)](https://twitter.com/realamirhe)
+[![Hashnode](https://img.shields.io/badge/Hashnode-000?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@amirhe) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhossein-ebrahimi-014164225/)
+[![Twitter](https://img.shields.io/twitter/follow/realamirhe?logo=twitter&style=for-the-badge)](https://twitter.com/realamirhe)
+[![Telegram @ahimi_channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AhIMi_channel)
+
 
 
 
