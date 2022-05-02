@@ -28,6 +28,7 @@
 
 ## My Latest Hashnode Blogposts
  <!-- BLOG-POST-LIST:START -->
+- [Proxy cool array methods](https://amirhe.hashnode.dev/proxy-cool-array-methods)
 - [Use package.json wisely](https://amirhe.hashnode.dev/use-packagejson-wisely)
 - [Unleash the power of bookmarklets](https://amirhe.hashnode.dev/unleash-the-power-of-bookmarklets)
 <!-- BLOG-POST-LIST:END -->
