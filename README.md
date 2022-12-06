@@ -21,6 +21,7 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-302f36?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@amirhe) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302f36?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhe/)
 [![Twitter](https://img.shields.io/badge/twitter-302f36.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realamirhe)
+[![Discord](https://img.shields.io/badge/amirhe%231691-302f36.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/475245647558082560)
 
 
 
