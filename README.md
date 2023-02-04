@@ -16,7 +16,7 @@
   <a href="https://t.me/s/AhIMi_channel" title="t.me/AhIMi_channel" target="_blank"><img width="100" src="AhIMi.png" alt="AhIMi"></a>
 </p>
 
-❤️ `react` `neo4j` `PyTorch` `spiking neural network` `flutter` `rust`
+❤️ `Next.js` `react` `neo4j` `PyTorch` `spiking neural network` `NLP` `flutter` `rust`
 <br><br>
 [![Hashnode](https://img.shields.io/badge/Hashnode-302f36?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@amirhe) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302f36?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhe/)
