@@ -17,13 +17,15 @@
   <a href="https://t.me/s/AhIMi_channel" title="t.me/AhIMi_channel" target="_blank"><img width="100" src="AhIMi.png?td=1704529740921" alt="AhIMi"></a>
 </p>
 
-❤️ `Next.js` `react` `neo4j` `PyTorch` `spiking neural network` `NLP` `Typescript` `rust`
+❤️ `Next.js` `react` `neo4j` `PyTorch` `spiking neural network` `NLP` `Typescript` `rust` 
+
 <br><br>
 [![Hashnode](https://img.shields.io/badge/Hashnode-302f36?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@amirhe) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302f36?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhe/)
 [![Twitter](https://img.shields.io/badge/twitter-302f36.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realamirhe)
 [![Discord](https://img.shields.io/badge/amirhe%231691-302f36.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/475245647558082560)
-
+<a href="https://hashnode.com/@amirhe" title="hashnode/@amirhe" target="_blank"><img width="30" src="https://em-content.zobj.net/source/microsoft-teams/400/high-voltage_26a1.png" alt="blogs"></a>
+<a href="t.me/AhIMi_channel" title="drawing/channel" target="_blank"><img width="30" src="https://em-content.zobj.net/source/microsoft-teams/400/artist_1f9d1-200d-1f3a8.png" alt="AhIMi"></a>
 
 
 
