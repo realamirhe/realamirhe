@@ -14,7 +14,7 @@
   <img src="commits.png" width="465" >
   &nbsp;&nbsp;
   <b>⇌</b>
-  <a href="https://t.me/s/AhIMi_channel" title="t.me/AhIMi_channel" target="_blank"><img width="100" src="AhIMi.png?td=1704529740921" alt="AhIMi"></a>
+  <a href="https://t.me/ahimi_art" title="t.me/AhIMi_channel" target="_blank"><img width="100" src="AhIMi.png?td=1704529740921" alt="AhIMi"></a>
 </p>
 
 ❤️ `Next.js` `react` `neo4j` `PyTorch` `spiking neural network` `NLP` `Typescript` `rust` 
@@ -24,8 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-302f36?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhe/)
 [![Twitter](https://img.shields.io/badge/twitter-302f36.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/realamirhe)
 [![Discord](https://img.shields.io/badge/amirhe%231691-302f36.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/475245647558082560)
-<a href="t.me/AhIMi_channel" title="drawing/channel" target="_blank"><img width="30" src="https://em-content.zobj.net/source/microsoft-teams/400/artist_1f9d1-200d-1f3a8.png" alt="AhIMi"></a> ・
-<a href="t.me/ahimi_flamingo" title="engineering/channel" target="_blank"><img width="30" src="https://em-content.zobj.net/source/microsoft-teams/400/flamingo_1f9a9.png" alt="Flamingo"></a>
+<a href="https://t.me/ahimi_art" title="drawing/channel" target="_blank"><img width="30" src="https://em-content.zobj.net/source/microsoft-teams/400/artist_1f9d1-200d-1f3a8.png" alt="AhIMi"></a> ・
+<a href="https://t.me/ahimi_flamingo" title="engineering/channel" target="_blank"><img width="30" src="https://em-content.zobj.net/source/microsoft-teams/400/flamingo_1f9a9.png" alt="Flamingo"></a>
 
 
 
