@@ -32,11 +32,11 @@
 
 ## My Latest Hashnode Blogposts
 <!-- BLOG-POST-LIST:START -->
+- [Let the Model Reason in Its Own Language](https://amirhe.hashnode.dev/let-the-model-reason-in-its-own-language)
+- [When a Failed Release Still Publishes a Tag](https://amirhe.hashnode.dev/when-a-failed-release-still-publishes-a-tag)
 - [Docker start for frontend devleop](https://amirhe.hashnode.dev/docker-start-for-frontend-devleop)
 - [Changing root git history](https://amirhe.hashnode.dev/changing-root-git-history)
 - [Proxy cool array methods](https://amirhe.hashnode.dev/proxy-cool-array-methods)
-- [Use package.json wisely](https://amirhe.hashnode.dev/use-packagejson-wisely)
-- [Unleash the power of bookmarklets](https://amirhe.hashnode.dev/unleash-the-power-of-bookmarklets)
 <!-- BLOG-POST-LIST:END -->
  
 
